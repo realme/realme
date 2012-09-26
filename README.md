@@ -1,5 +1,4 @@
 realme
 ======
 
-Real-Time stream 
-sdf
+realme is a distributed realtime computation system
